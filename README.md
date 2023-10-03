@@ -46,5 +46,5 @@ If you would like to contribute to this project, please open an issue or submit 
 ## Contact
 
 For questions or feedback, feel free to contact the project maintainer:
-- Rajesh Thalla<rajeshzealster@gmail.com>
+- Rajesh Thalla - <rajeshzealster@gmail.com>
 
