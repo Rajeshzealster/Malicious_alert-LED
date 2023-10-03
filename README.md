@@ -21,8 +21,8 @@ To deploy and use this project, follow these steps:
 
 1. **Prerequisites**: Ensure you have the following prerequisites installed:
    - [K3s](https://k3s.io/) cluster set up on Raspberry Pi devices.
-   - [TOSCA](http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=tosca) for modeling the application.
-   - [xOpera]((https://xlab-si.github.io/xopera-docs/02-cli.html) for dynamic deployment.
+   - [TOSCA](https://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.3/os/TOSCA-Simple-Profile-YAML-v1.3-os.html) for modeling the application.
+   - [xOpera](https://xlab-si.github.io/xopera-docs/02-cli.html) for dynamic deployment.
 
 2. **Clone the Repository**: Clone this repository to your local machine.
 
